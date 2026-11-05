@@ -10,6 +10,7 @@ dist/
 .env.*
 !.env.example
 .veo/
+handoffs/
 *.sqlite
 *.db
 .DS_Store
